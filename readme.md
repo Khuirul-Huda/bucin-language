@@ -1,3 +1,5 @@
+![](https://hits.dwyl.com/Khuirul-Huda/bucin-language.svg?show=unique)
+
 ### Bucin Programming Language
 
 just for fun <3 
