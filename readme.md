@@ -25,3 +25,18 @@ example:
 
 ### Basic Syntax
 ==Soon==
+
+### Example
+
+```bucin
+jujur dia itu "baik"
+sebenarnya aku itu "suka"
+
+klo (dia bener bener "baik") lakuin ini buat dia
+    ungkapkan('Hai kakak baik banget deh. boleh kenalan?')
+klo gak, lakuin ini buat dia
+    ungkapkan('Hai kak, jahad bgt deh')
+```
+
+Output: 
+```Hai kakak baik banget deh. boleh kenalan?```
