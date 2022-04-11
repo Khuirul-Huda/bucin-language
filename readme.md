@@ -2,7 +2,7 @@
 
 ### Bucin Programming Language
 
-just for fun <3 
+Bucin Programming Language - BPL is heart touching programming language. Love yourself before loving others <3. for now just for fun not for production. still just a language translation.  
 
 ### Compiling
 
@@ -26,7 +26,20 @@ example:
 
 
 ### Basic Syntax
-==Soon==
+```jujur dia itu "baik"``` 
+```py
+dia = "baik"
+```
+
+```sebenarnya aku itu "suka"```
+```py
+aku = "suka"
+```
+
+```ungkapkan("Hello World")```
+```py
+print("Hello World")
+```
 
 ### Example
 
